@@ -16,4 +16,4 @@ $ bower install
 ```
 $ node app.js
 ```
-open browser and nd go to http://localhost:8000/
+open browser and nd go to [http://localhost:8000/](http://localhost:8000/)
